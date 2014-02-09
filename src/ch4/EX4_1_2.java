@@ -18,7 +18,7 @@ package ch4;
 
 import java.math.*;
 
-public class ch4_1_2 {
+public class EX4_1_2 {
 	//use the array from CLRS 4.1
 	private static int[] A = {13, -3, -25, 20, -3, -16, -23, 18, 20, -7, 12, -5, -22, 15, -4, 7};
 
